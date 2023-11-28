@@ -1,4 +1,4 @@
 # HandApp
-<h3>HandApp es una APK que tiene como propósito unir a una gran comunidad de personas con un objetivo en común, ayudar al otro. Fue desarrollada en el 2018 como proyecto final de la cursada de Desarrollo Mobile dictada por Digit@lers.</h3>
+<h3>HandApp es una APK que tiene como propósito unir a una gran comunidad de personas con un objetivo en común, ayudar al otro. Fue desarrollada en el 2018 como proyecto final de Desarrollo Mobile dictada por Digit@lers.</h3>
 
 ![image](https://github.com/gdisciglio/HandApp/blob/main/Mockup/handapp_mockup02.png)
