@@ -3,3 +3,4 @@
 
 ![image](https://github.com/gdisciglio/HandApp/blob/main/Mockup/handapp_mockup02.png)
 ![image](https://raw.githubusercontent.com/gdisciglio/HandApp/main/Mockup/handapp_mockup02.png)
+![image](Mockup/handapp_mockup02.png)
